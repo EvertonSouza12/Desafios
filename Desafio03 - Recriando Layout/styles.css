@@ -32,7 +32,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 101px;
+  margin: 71px;
 }
 
 p {
@@ -63,6 +63,7 @@ footer {
   color: #FFFFFF;
   text-align: center;
   margin-top: 157px;
+  padding-top: 27px;
 }
 
 a {
@@ -86,8 +87,9 @@ main {
   margin-bottom: 20px;
 }
 
-#line {
-  border: 1px solid #00BFA6;
+.line {
   width: 568px;
   height: 0px;
-}
+  margin: 0 auto 8px;
+  border: 1px solid #00BFA6;
+  }
