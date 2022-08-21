@@ -10,14 +10,14 @@ body {
   
   .page {
     width: 1000px;
-    margin: 0 auto;
-    padding-top: 65px;
+    margin: 65px auto 0;
   }
   
   nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 55px;
   }
   
   ul {
@@ -96,7 +96,7 @@ body {
   
     text-align: center;
   
-    margin-top: 80px;
+    margin-top: 82px;
   }
   
   footer a {
@@ -111,4 +111,5 @@ body {
   main {
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
