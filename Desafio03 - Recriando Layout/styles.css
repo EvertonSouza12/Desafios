@@ -9,6 +9,7 @@ h1 {
   font-size: 36px;
   line-height: 40px;
   color: white;
+  margin-bottom: 59px;
 }
 
 h1 strong {
@@ -75,7 +76,8 @@ main {
   width: 1098;
   display: flex;
   align-items: center;
-
+  margin: 202px 89px 235px 99px;
+  gap: 82px;
 }
 
 #cadeado {
@@ -88,4 +90,8 @@ main {
   border: 1px solid #00BFA6;
   width: 568px;
   height: 0px;
+}
+
+section {
+  width: 604px;
 }
