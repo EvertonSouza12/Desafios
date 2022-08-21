@@ -1,0 +1,21 @@
+body {
+  background-color: #2F2E41;
+}
+
+h1 strong {
+  color: #00BFA6;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
